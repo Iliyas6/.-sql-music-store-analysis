@@ -13,6 +13,10 @@ What city spends the most on music?
 
 What tracks are longer than average?
 
+📌 Full Database Schema
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1a4f50b6-59b9-4d1b-b986-627841e0750c" />
+
+
 📁 Project Structure
 Music Store SQL Project
 │
@@ -72,8 +76,7 @@ This structure makes it ideal for practicing SQL joins, aggregations, CTEs, wind
 
 Below is the schema diagram representing the relationships among all tables.
 
-📌 Full Database Schema
-<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1a4f50b6-59b9-4d1b-b986-627841e0750c" />
+
 
 📌 Table Relationship Diagram
 <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/616cde94-3e4e-45d4-a9af-f63d03482fbf" />
