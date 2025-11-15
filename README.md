@@ -12,6 +12,13 @@ Below is the schema diagram representing the relationships among all tables.
 📌 Full Database Schema
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1a4f50b6-59b9-4d1b-b986-627841e0750c" />
 
+
+
+
+
+
+
+
 📌Table Relationship Diagram
 <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/882a1fc8-07b0-45e3-9b64-7b7893a4e05d" />
 
